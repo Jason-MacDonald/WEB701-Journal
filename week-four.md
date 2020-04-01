@@ -6,7 +6,7 @@ The last week has mostly been working on the projects report. I have created the
 
 As I mentioned in an earlier post, I want my theme to portray the words **elegant** and **creative**. I'm still not sure exactly what that means but I will keep it in mind when choosing colors, fonts and component designs.
 
-I will be continuing the report this to where I will hopefully have most of it drafted by next weekend. That's about all I have for this weeks journal as I have been more focused on getting my ideas down on paper rather than prototyping but it just makes more sence to me to finalise the design so I can better evaluate which framework/s would be better suited to bring the web app to life.
+I will be continuing the report to where I will hopefully have most of it drafted by next weekend. That's about all I have for this weeks journal as I have been more focused on getting my ideas down on paper rather than prototyping but it just makes more sence to me to finalise the design so I can better evaluate which framework/s would be better suited to bring the web app to life.
 
 [Previous](https://github.com/Jason-MacDonald/WEB701-Journal/blob/master/week-three.md) |
 [1](https://github.com/Jason-MacDonald/WEB701-Journal/blob/master/week-one.md) |
