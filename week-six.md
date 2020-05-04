@@ -20,10 +20,10 @@ With analysis and test of express and vue well underway, I really need to get in
 
 ## TODO:
 
-- [ ] Submit A2M1 Report - _Moodle_
-- [ ] Update Calander
-- [ ] Begin skelliton report for Assignment Two: Milestone Two
-- [ ] Finally look in to Svelte as a possible framework for the project.
+- [x] Submit A2M1 Report - _Moodle_
+- [x] Update Calander
+- [x] Begin skelliton report for Assignment Two: Milestone Two
+- [x] Finally look in to Svelte as a possible framework for the project.
 
 [Previous](https://github.com/Jason-MacDonald/WEB701-Journal/blob/master/week-five.md) |
 [1](https://github.com/Jason-MacDonald/WEB701-Journal/blob/master/week-one.md) |
