@@ -8,6 +8,14 @@ For our first class for the week, we had a comprehensive overview of what we nee
 
 I haven't made much progress on the framework front since last week, however as I am near completion of a milestone for another class I should find more time this week to finish off the framework prototypes. Which will leave a couple weeks to finish off the documentation for milestone two.
 
+## Linux Box
+
+One of the big focuses at the moment is testing how to deploy applications on a linux box virtual machine. I've had a small play now to become familiar with the virtual machine and processes however I shifted a lot of my focus this week finishing off an assignment due for a seperate class.
+
+My goal for next week will be to create a test development application for the Express and Vue frameworks. As the actual deployment of a site is not required until mileston three, I am taking this a little slowly. The process I will most likely use for deployment involves developing the application locally before deploying rather than developing it on the server.
+
+I'm also fully aware that Assignment One Milestone Two is due in the next few weeks so I am continuing to develop the prototypes which have become much smaller than my initial intentions were :S and reporting about the comparrisons. I still need to put some time into researching the security aspects of each framework aswell.
+
 [Previous](https://github.com/Jason-MacDonald/WEB701-Journal/blob/master/week-seven.md) |
 [1](https://github.com/Jason-MacDonald/WEB701-Journal/blob/master/week-one.md) |
 [2](https://github.com/Jason-MacDonald/WEB701-Journal/blob/master/week-two.md) |
