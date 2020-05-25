@@ -1,6 +1,6 @@
 # Week Eleven
 
-With the main project well underway, it was time to look at the 'edge of technology' select something to implement for Milestone Three.
+With the main project well underway, it was time to look at the 'edge of technology' and select something to implement for Milestone Three.
 
 I picked a notification system as I think this could be very beneficial for the auction and event aspects of the project. Users could be notified if:
 
